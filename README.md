@@ -1,43 +1,25 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, I'm SeungHwan Choi 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+<br>
 
+## 🛠️ Stacks
+- **Programing Languages** : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+- **Framework/ Library** : <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> 
+- **Server/DBMS** : <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+- **Tooling/ DevOps** :  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse-%232C2255?logo=eclipseide">
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+- **ETC** : <img alt="Static Badge" src="https://img.shields.io/badge/Teams-%236264A7?logo=microsoftteams"> <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
-🛠️ Stacks
+<br>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
+## 🐱 Contact Me
 
-💪🏼 Tools 
+- **Email** :  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shwan0317@gmail.com)
+<br>
 
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
-
-
-🐱 About Me
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctmdghks&show_icons=true&theme=radical)
 
 
 🏅 Algorithm Gold Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
-
-
-
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac//)  
