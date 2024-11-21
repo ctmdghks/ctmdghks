@@ -17,7 +17,7 @@
 - **Email** :  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shwan0317@gmail.com)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctmdghks&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctmdghks&show_icons=true&theme=radical) -->
 
 
 🏅 Algorithm Gold Level. 
